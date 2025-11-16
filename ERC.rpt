@@ -1,0 +1,23 @@
+ERC report (2025-11-14T19:33:55-0500, Encoding UTF8)
+
+***** Sheet /
+
+***** Sheet /1_Power_Management/
+
+***** Sheet /2_STM32_Module_Interface/
+
+***** Sheet /3_Motor_ESC_Control/
+[multiple_net_names]: Both PWM_ESC_PROTECTED and PWM_ESC are attached to the same items; PWM_ESC_PROTECTED will be used in the netlist
+    ; warning
+    @(2300 mils, 1250 mils): Label 'PWM_ESC_PROTECTED'
+    @(1600 mils, 1250 mils): Hierarchical Label 'PWM_ESC'
+[multiple_net_names]: Both PWM_SERVO_PROTECTED and PWM_SERVO are attached to the same items; PWM_SERVO_PROTECTED will be used in the netlist
+    ; warning
+    @(2350 mils, 3750 mils): Label 'PWM_SERVO_PROTECTED'
+    @(1650 mils, 3750 mils): Hierarchical Label 'PWM_SERVO'
+
+***** Sheet /4_User_Interface/
+
+***** Sheet /5_Communication_Interfaces/
+
+ ** ERC messages: 2  Errors 0  Warnings 2

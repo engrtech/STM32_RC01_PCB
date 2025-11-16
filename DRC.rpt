@@ -1,0 +1,60 @@
+** Drc report for FuSa1.kicad_pcb **
+** Created on 2025-11-15T21:00:49-0500 **
+
+** Found 12 DRC violations **
+[shorting_items]: Items shorting two nets (nets /1_Power_Management/VBAT_PROTECTED and Net-(J2-Pin_2))
+    Local override; error
+    @(71.7250 mm, 98.0000 mm): Track [/1_Power_Management/VBAT_PROTECTED] on F.Cu, length 3.2750 mm
+    @(71.0000 mm, 102.0000 mm): PTH pad 1 [Net-(J2-Pin_2)] of U1
+[shorting_items]: Items shorting two nets (nets /1_Power_Management/VBAT_PROTECTED and Net-(J2-Pin_2))
+    Local override; error
+    @(88.0000 mm, 93.0000 mm): Track [/1_Power_Management/VBAT_PROTECTED] on F.Cu, length 7.0711 mm
+    @(88.0000 mm, 93.0000 mm): PTH pad 2 [Net-(J2-Pin_2)] of J2
+[shorting_items]: Items shorting two nets (nets /1_Power_Management/VBAT_PROTECTED and Net-(J2-Pin_2))
+    Local override; error
+    @(71.7250 mm, 101.2750 mm): Track [/1_Power_Management/VBAT_PROTECTED] on F.Cu, length 1.0253 mm
+    @(71.0000 mm, 102.0000 mm): PTH pad 1 [Net-(J2-Pin_2)] of U1
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; warning
+    @(103.2000 mm, 138.3300 mm): Footprint U3
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; warning
+    @(103.2000 mm, 138.3300 mm): Footprint U3
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; warning
+    @(103.2000 mm, 138.3300 mm): Footprint U3
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; warning
+    @(103.2000 mm, 138.3300 mm): Footprint U3
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; warning
+    @(103.2000 mm, 138.3300 mm): Footprint U3
+[lib_footprint_mismatch]: Footprint 'PinSocket_2x04_P2.54mm_Vertical' does not match copy in library 'Connector_PinSocket_2.54mm'.
+    Local override; warning
+    @(124.9600 mm, 111.9600 mm): Footprint J53
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(71.7250 mm, 98.0000 mm): Track [/1_Power_Management/VBAT_PROTECTED] on F.Cu, length 3.2750 mm
+    @(71.0000 mm, 102.0000 mm): PTH pad 1 [Net-(J2-Pin_2)] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(88.0000 mm, 93.0000 mm): Track [/1_Power_Management/VBAT_PROTECTED] on F.Cu, length 7.0711 mm
+    @(88.0000 mm, 93.0000 mm): PTH pad 2 [Net-(J2-Pin_2)] of J2
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(71.7250 mm, 101.2750 mm): Track [/1_Power_Management/VBAT_PROTECTED] on F.Cu, length 1.0253 mm
+    @(71.0000 mm, 102.0000 mm): PTH pad 1 [Net-(J2-Pin_2)] of U1
+
+** Found 2 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(88.0000 mm, 93.0000 mm): Track [/1_Power_Management/VBAT_PROTECTED] on F.Cu, length 7.0711 mm
+    @(85.2100 mm, 93.2500 mm): Track [/1_Power_Management/VBAT_PROTECTED] on F.Cu, length 0.3536 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(71.0000 mm, 102.0000 mm): PTH pad 1 [Net-(J2-Pin_2)] of U1
+    @(88.0000 mm, 93.0000 mm): PTH pad 2 [Net-(J2-Pin_2)] of J2
+
+** Found 0 Footprint errors **
+
+** End of Report **
