@@ -3629,7 +3629,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF/50V"
 			(at 78.74 109.2199 0)
 			(effects
 				(font
@@ -3665,25 +3665,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1848"
-			(at 74.93 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCS" ""
-			(at 74.93 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LSCS" ""
+		(property "LCSC" "C6119867"
 			(at 74.93 107.95 0)
 			(effects
 				(font
@@ -3825,25 +3807,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C17909"
-			(at 66.04 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCS" ""
-			(at 66.04 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LSCS" ""
+		(property "LCSC" "C14676"
 			(at 66.04 102.87 90)
 			(effects
 				(font
@@ -3920,25 +3884,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1015"
-			(at 33.02 45.72 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCS" ""
-			(at 33.02 45.72 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LSCS" ""
+		(property "LCSC" "C16902"
 			(at 33.02 45.72 90)
 			(effects
 				(font
@@ -3981,7 +3927,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF/50V"
 			(at 167.64 29.2099 0)
 			(effects
 				(font
@@ -4017,25 +3963,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1848"
-			(at 163.83 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCS" ""
-			(at 163.83 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LSCS" ""
+		(property "LCSC" "C6119867"
 			(at 163.83 27.94 0)
 			(effects
 				(font
@@ -4144,7 +4072,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF/50V"
 			(at 154.94 29.2099 0)
 			(effects
 				(font
@@ -4180,25 +4108,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1848"
-			(at 151.13 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCS" ""
-			(at 151.13 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LSCS" ""
+		(property "LCSC" "C6119867"
 			(at 151.13 27.94 0)
 			(effects
 				(font
@@ -4240,7 +4150,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10uF/25V"
 			(at 124.206 29.21 0)
 			(effects
 				(font
@@ -4276,25 +4186,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C13585"
-			(at 121.92 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCS" ""
-			(at 121.92 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LSCS" ""
+		(property "LCSC" "C6119815"
 			(at 121.92 27.94 0)
 			(effects
 				(font
@@ -4323,7 +4215,7 @@
 		(at 123.19 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "7ae210c4-d3ee-4f27-953d-1685a7c2e459")
@@ -4364,24 +4256,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 123.19 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCS" ""
-			(at 123.19 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LSCS" ""
 			(at 123.19 87.63 0)
 			(effects
 				(font
@@ -4640,24 +4514,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCS" ""
-			(at 39.37 77.47 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LSCS" ""
-			(at 39.37 77.47 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "860c8b35-ab77-4ebd-a0d5-69995971cc6a")
 		)
@@ -4728,25 +4584,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1848"
-			(at 78.74 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCS" ""
-			(at 78.74 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LSCS" ""
+		(property "LCSC" "C5199872"
 			(at 78.74 44.45 0)
 			(effects
 				(font
@@ -4789,7 +4627,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10uF/25V"
 			(at 99.06 29.2099 0)
 			(effects
 				(font
@@ -4825,25 +4663,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C13585"
-			(at 95.25 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCS" ""
-			(at 95.25 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LSCS" ""
+		(property "LCSC" "C6119815"
 			(at 95.25 27.94 0)
 			(effects
 				(font
@@ -4928,24 +4748,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCS" ""
-			(at 39.37 87.63 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LSCS" ""
-			(at 39.37 87.63 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "98473f83-ed1d-4357-8321-f2131b5797f9")
 		)
@@ -4980,7 +4782,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF/50V"
 			(at 180.34 29.2099 0)
 			(effects
 				(font
@@ -5016,25 +4818,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1848"
-			(at 176.53 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCS" ""
-			(at 176.53 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LSCS" ""
+		(property "LCSC" "C6119867"
 			(at 176.53 27.94 0)
 			(effects
 				(font
@@ -5110,25 +4894,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C17902"
-			(at 72.39 76.2 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCS" ""
-			(at 72.39 76.2 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LSCS" ""
+		(property "LCSC" "C15401"
 			(at 72.39 76.2 90)
 			(effects
 				(font
@@ -5204,25 +4970,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1015"
-			(at 33.02 33.02 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCS" ""
-			(at 33.02 33.02 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LSCS" ""
+		(property "LCSC" "C16902"
 			(at 33.02 33.02 90)
 			(effects
 				(font
